@@ -513,7 +513,7 @@ iframe {
     }
 
     #nav-menu {
-        display: none; /* Hidden by default in mobile */
+        display: none; 
         flex-direction: column;
         background-color: #A1633A;
         width: 100%;
@@ -523,7 +523,7 @@ iframe {
     }
 
     #nav-menu.active {
-        display: flex; /* Show when active */
+        display: flex; 
     }
 
     #nav-menu ul {
